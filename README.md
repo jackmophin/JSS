@@ -1,7 +1,7 @@
 <p align="center">
   * To start working with JSS, import this script into your repository *
 </p>
-<p align="center">
+<p align="center" white-space='nowrap'>
  <script id="jss">
   document.addEventListener('DOMContentLoaded', () => {
     fetch('https://raw.githubusercontent.com/jackmophin/JSS/main/jss.js')
