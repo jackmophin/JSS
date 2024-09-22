@@ -1,4 +1,3 @@
-<script>
     let config = {}; 
     function setupConfig(configContent) {
       try {
@@ -71,4 +70,3 @@
     document.addEventListener('DOMContentLoaded', () => {
       processJStyle();
     });
-  </script>
