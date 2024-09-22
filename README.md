@@ -1,5 +1,5 @@
 <p align="center">
-  **To start working with JSS, import this script into your repository**
+  * To start working with JSS, import this script into your repository *
 </p>
 <p align="center>
  <script id="jss">
